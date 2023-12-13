@@ -1,0 +1,6 @@
+*.iso
+busybox/
+kernel/
+initrd/
+efi_iso/
+grub_iso/
